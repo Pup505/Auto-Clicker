@@ -1,0 +1,9 @@
+Pause On
+
+Loop
+{
+click
+sleep, 10
+}
+
+F1::Pause
